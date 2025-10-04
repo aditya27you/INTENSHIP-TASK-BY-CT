@@ -1,0 +1,25 @@
+(Overview)
+An interactive Tableau Public dashboard built using the Netflix Titles dataset.
+It shows how Movies and TV Shows are distributed by genre, rating, country, and year.
+
+🧩 Tools
+Tool: Tableau Public
+Dataset: netflix_titles.csv (from Kaggle).
+
+📊 Dashboard Highlights
+Total Movies & TV Shows
+Genre-wise content distribution
+Ratings breakdown (TV-MA, PG, etc.)
+Country-wise total titles (map view)
+Year-wise trend of movies & shows.
+
+💡 Insights
+Movies dominate Netflix’s library.
+Ratings like TV-MA and TV-14 appear most often.
+Drama, Comedy, and International Movies are top genres.
+Netflix content grew rapidly after 2015.
+The U.S., India, and U.K. lead in content count.
+
+Aditya Shah
+📧 shahaditya03714@gmail.com
+🔗 github.com/aditya27you
