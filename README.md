@@ -5,7 +5,6 @@
 **DURATION** : 4 WEEKS
 **MENTOR** : NEELA SANTOSH
 
-This repository contains 4 tasks
 
 # 🎓 Internship Tasks Summary 
 This repository contains four end-to-end data analytics and machine learning tasks completed as part of my internship.
@@ -81,6 +80,9 @@ A fully functional Python notebook demonstrating basic sentiment analysis pipeli
 
 
 🧠 **Task 4: Sentiment Analysis (Movies Dataset)**
+
+## OUTPUT 
+https://github.com/aditya27you/INTENSHIP-TASK-BY-CT/issues/3#issue-3493215402
 
 📌 Objective
 To perform sentiment analysis on the `movies_cleaned.csv` dataset and predict text polarity (*positive* or *negative*).
