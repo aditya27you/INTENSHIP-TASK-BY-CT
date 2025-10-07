@@ -1,4 +1,10 @@
-# INTENSHIP-TASK-BY-CT
+# INTENSHIP-TASK-BY-CODETECH IT SOLUTIONS 
+**NAME** : Aditya Shah
+**INTERN ID** : CT04DY2409
+**DOMAIN** :: DATA ANALYSIS 
+**DURATION** : 4 WEEKS
+**MENTOR** : NEELA SANTOSH
+
 This repository contains 4 tasks
 
 # 🎓 Internship Tasks Summary 
